@@ -14,7 +14,7 @@ How to use the plugin:
 4. ICM menu should be visible in the eclipse main toolbar, on clicking the menu there will be an option to Create Case Widgets Maven project.
    CTR+9 shortcut key also will work for this menu action.
 5. Enter the project name in the dialog.
-6. Close your eyes for 2 seconds, widgets package project will be ready.
+6. Wait for project creation and you will get success message dialog once done.
 7. Open the pom.xml inside the Plugin project and provide navigatorAPI jar dependency as per your local maven repository.
 8. Necessary files have been created by default, you can modify them or directly start adding new custom widgets/actions without wasting time.
    
